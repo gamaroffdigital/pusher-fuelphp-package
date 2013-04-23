@@ -1,0 +1,3 @@
+[submodule "vendor/pusher"]
+	path = vendor/pusher
+	url = https://github.com/pusher/pusher-php-server
